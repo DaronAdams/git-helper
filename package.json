@@ -1,0 +1,11 @@
+{
+  "name": "git-helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "DaronAdams",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
